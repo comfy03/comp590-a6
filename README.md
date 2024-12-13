@@ -2,6 +2,7 @@
 
 # README for Elixir Programming Assignment
 
+# Team member: Comfort Donkor
 
 ## File 1: `elixir_programming_a3.ex`
 
